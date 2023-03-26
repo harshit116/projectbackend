@@ -1,0 +1,27 @@
+use mydb;
+
+insert into flights value(01,"Chennai","Delhi","Indigo",5000,"2023-03-22");
+insert into flights value(02,"Prayagraj","Chennai","AirIndia",7000,"2023-03-25");
+insert into flights value(03,"Mumbai","Kanpur","SpiceJet",4000,"2023-03-23");
+insert into flights value(04,"Mumbai","Delhi","Vistara",6000,"2023-03-24");
+insert into flights value(05,"Chennai","Delhi","TruJet",8000,"2023-03-25");
+insert into flights value(06,"Kanpur","Delhi","GoAir",7000,"2023-03-22");
+insert into flights value(07,"Delhi","Prayagraj","Indigo",8000,"2023-03-25");
+insert into flights value(08,"Prayagraj","Kanpur","Vistara",4000,"2023-03-23");
+insert into flights value(09,"Chennai","Kanpur","AirAisa",6000,"2023-03-24");
+insert into flights value(10,"Chennai","Kanpur","Etihad",4000,"2023-03-24");
+insert into flights value(11,"Delhi","Mumbai","British",7000,"2023-03-24");
+insert into flights value(12,"Delhi","Chennai","Indigo",6000,"2023-03-22");
+insert into flights value(13,"Prayagraj","Delhi","GoAir",7000,"2023-03-22");
+insert into flights value(14,"Prayagraj","Delhi","Indigo",2000,"2023-03-22");
+insert into flights value(15,"Prayagraj","Delhi","TruJet",8000,"2023-03-22");
+insert into flights value(16,"Chennai","Delhi","StarAir",8000,"2023-03-23");
+insert into flights value(17,"Chennai","Delhi","Vistara",5000,"2023-03-22");
+insert into flights value(18,"Mumbai","Delhi","Indigo",5000,"2023-03-23");
+insert into flights value(19,"Mumbai","Delhi","Qatar",6000,"2023-03-24");
+insert into flights value(20,"Kanpur","Delhi","Vistara",8000,"2023-03-22");
+insert into flights value(21,"Kanpur","Delhi","Indigo",5000,"2023-03-23");
+insert into flights value(22,"Kanpur","Mumabi","GoAir",7000,"2023-03-23");
+insert into flights value(23,"Chennai","Delhi","Etihad",9000,"2023-03-23");
+insert into flights value(24,"Chennai","Delhi","SpiceJet",7000,"2023-03-22");
+insert into flights value(25,"Chennai","Delhi","TruJet",7000,"2023-03-25");
